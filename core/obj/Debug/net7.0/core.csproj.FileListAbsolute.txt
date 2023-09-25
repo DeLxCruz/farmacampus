@@ -1,0 +1,12 @@
+c:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\bin\Debug\net7.0\core.deps.json
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\bin\Debug\net7.0\core.dll
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\bin\Debug\net7.0\core.pdb
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.csproj.AssemblyReference.cache
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.AssemblyInfo.cs
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.dll
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\refint\core.dll
+C:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\core.pdb
+c:\Users\APM02-36\Documents\cs\.NET\farmacampus\Core\obj\Debug\net7.0\ref\core.dll
